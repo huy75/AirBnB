@@ -1,0 +1,30 @@
+listing_id,date,available,adjusted_price,minimum_nights,host_id,listing_url,neighbourhood,zipcode,latitude,longitude,neighbourhood_cleansed,accommodates,host_is_superhost,price,weekly_price,monthly_price,number_of_reviews,review_scores_rating,review_scores_value
+34453,2020-10-15,True,60.0,3.0,148773,https://www.airbnb.com/rooms/34453,Bastille,75012,48.850429999999996,2.37111,Reuilly,3,True,$60.00,,,352,98.0,10.0
+594652,2020-10-15,True,55.0,1.0,2937340,https://www.airbnb.com/rooms/594652,XVIII Arrondissement,75018,48.88604,2.35147,Buttes-Montmartre,4,True,$55.00,$275.00,$830.00,291,94.0,10.0
+850937,2020-10-15,True,50.0,2.0,3980552,https://www.airbnb.com/rooms/850937,Bastille,75004,48.85026,2.36498,Hôtel-de-Ville,3,True,$60.00,,,142,97.0,10.0
+1548562,2020-10-15,True,38.0,2.0,7974408,https://www.airbnb.com/rooms/1548562,XX Arrondissement,75020,48.85495,2.40983,Ménilmontant,3,True,$56.00,$750.00,,49,99.0,10.0
+3206934,2020-10-15,True,55.0,30.0,9956671,https://www.airbnb.com/rooms/3206934,Montmartre,75018,48.8878,2.34315,Buttes-Montmartre,4,True,$55.00,,"$2,025.00",234,96.0,10.0
+3581956,2020-10-15,True,39.0,270.0,18042923,https://www.airbnb.com/rooms/3581956,Alésia,75014,48.82632,2.32337,Observatoire,3,True,$32.00,$232.00,$950.00,64,95.0,9.0
+4531792,2020-10-15,True,52.0,1.0,10277895,https://www.airbnb.com/rooms/4531792,X Arrondissement,75010,48.87899,2.3632,Entrepôt,4,True,$52.00,$280.00,,125,98.0,10.0
+5188529,2020-10-15,True,55.0,1.0,20477783,https://www.airbnb.com/rooms/5188529,XI Arrondissement,75011,48.86483,2.36715,Popincourt,3,True,$55.00,$339.00,"$1,120.00",56,97.0,10.0
+6510110,2020-10-15,True,55.0,7.0,2091494,https://www.airbnb.com/rooms/6510110,Buttes-Chaumont - Belleville,75019,48.87623,2.38355,Buttes-Chaumont,4,True,$64.00,$375.00,"$1,250.00",162,97.0,10.0
+7342429,2020-10-15,True,39.0,270.0,18042923,https://www.airbnb.com/rooms/7342429,Alésia,75014,48.82674,2.32364,Observatoire,3,True,$32.00,,,24,97.0,9.0
+9044611,2020-10-15,True,60.0,5.0,47136342,https://www.airbnb.com/rooms/9044611,X Arrondissement,75010,48.88313,2.3687400000000003,Entrepôt,4,True,$70.00,$399.00,"$1,400.00",65,95.0,10.0
+9557560,2020-10-15,True,59.0,2.0,35537012,https://www.airbnb.com/rooms/9557560,XIX Arrondissement,75019,48.89651,2.38561,Buttes-Chaumont,4,True,$59.00,,,296,97.0,10.0
+11273053,2020-10-15,True,60.0,7.0,58859234,https://www.airbnb.com/rooms/11273053,Bastille,75011,48.85542,2.37437,Popincourt,4,True,$47.00,,,51,99.0,10.0
+14278609,2020-10-15,True,60.0,5.0,75266281,https://www.airbnb.com/rooms/14278609,République,75010,48.87076,2.36306,Entrepôt,3,True,$52.00,,,61,97.0,10.0
+14528933,2020-10-15,True,60.0,2.0,25890185,https://www.airbnb.com/rooms/14528933,Buttes-Chaumont - Belleville,75019,48.88496,2.37953,Buttes-Chaumont,4,True,$65.00,,,110,99.0,10.0
+21778266,2020-10-15,True,35.0,2.0,12112835,https://www.airbnb.com/rooms/21778266,XIX Arrondissement,75019,48.88387,2.39636,Buttes-Chaumont,3,True,$35.00,,,64,99.0,10.0
+24134523,2020-10-15,True,55.0,3.0,28343350,https://www.airbnb.com/rooms/24134523,XX Arrondissement,75020,48.86546,2.38495,Ménilmontant,3,True,$49.00,,,30,96.0,10.0
+26333152,2020-10-15,True,58.0,7.0,17852537,https://www.airbnb.com/rooms/26333152,Père Lachaise - Ménilmontant,75020,48.86092,2.40196,Ménilmontant,3,True,$60.00,,,14,100.0,10.0
+29301141,2020-10-15,True,50.0,3.0,128214184,https://www.airbnb.com/rooms/29301141,XIX Arrondissement,93300,48.90162,2.3871,Buttes-Chaumont,3,True,$50.00,,,52,94.0,9.0
+32202055,2020-10-15,True,60.0,20.0,20820719,https://www.airbnb.com/rooms/32202055,Buttes-Chaumont - Belleville,75019,48.87258,2.38115,Ménilmontant,3,True,$60.00,,,16,96.0,10.0
+32228079,2020-10-15,True,45.0,7.0,3374747,https://www.airbnb.com/rooms/32228079,XVIII Arrondissement,75018,48.88877,2.3515,Buttes-Montmartre,3,True,$60.00,,,6,97.0,10.0
+32492494,2020-10-15,True,45.0,30.0,243874104,https://www.airbnb.com/rooms/32492494,Place d'Italie - Quartier Chinois,75013,48.82196,2.36469,Gobelins,4,True,$75.00,,,5,100.0,9.0
+37104151,2020-10-15,True,58.0,30.0,14581565,https://www.airbnb.com/rooms/37104151,Alésia,75014,48.83132,2.3156,Observatoire,3,True,$57.00,,,1,100.0,8.0
+38687197,2020-10-15,True,28.0,5.0,73699384,https://www.airbnb.com/rooms/38687197,XX Arrondissement,75020,48.87279,2.40971,Ménilmontant,3,True,$28.00,,,4,90.0,9.0
+42090840,2020-10-15,True,60.0,3.0,4216889,https://www.airbnb.com/rooms/42090840,Place d'Italie - Quartier Chinois,75013,48.827059999999996,2.3484700000000003,Gobelins,3,True,$60.00,,,0,,
+43692632,2020-10-15,True,51.0,1.0,17887613,https://www.airbnb.com/rooms/43692632,Batignolles,75017,48.8932,2.31921,Batignolles-Monceau,3,True,$50.00,,,0,,
+43672051,2020-10-15,True,22.0,2.0,291031076,https://www.airbnb.com/rooms/43672051,XV Arrondissement,92170,48.82843,2.28594,Vaugirard,4,True,$22.00,,,0,,
+43672506,2020-10-15,True,22.0,2.0,291031076,https://www.airbnb.com/rooms/43672506,XV Arrondissement,92170,48.82802,2.28431,Vaugirard,3,True,$22.00,,,0,,
+43672736,2020-10-15,True,22.0,2.0,291031076,https://www.airbnb.com/rooms/43672736,XV Arrondissement,92170,48.82809,2.28474,Vaugirard,3,True,$22.00,,,0,,

@@ -1,5 +1,8 @@
-Objective
-
+# AirBnB
+## Installation
+Jupyter
+## Description
+```
 The data is from http://insideairbnb.com/get-the-data.html
 
 For the project, all the data files are in the folder 'data'.
@@ -28,3 +31,8 @@ Table of Contents
     d) Apply the criteria (date, number of people, max daily rate, superhost)
 
 2. Data Visualization with maps
+```
+## Implementation
+```
+Pandas, Plotly, Folium
+```
